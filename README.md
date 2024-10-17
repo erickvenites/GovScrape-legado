@@ -83,7 +83,7 @@ $ geckodriver --version
     porta=porta
 
     #### Emails que receberam a resposta do scraping
-    EMAIL_RECIPIENTS=exemplo@gmail.com,exemplo2@marinha.mil.br
+    EMAIL_RECIPIENTS=exemplo@gmail.com,exemplo2@gmail.com
 
     DB_URI=user:senha@host:porta/db 
 ```
